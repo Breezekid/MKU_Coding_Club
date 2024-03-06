@@ -1,5 +1,5 @@
 ## MKU_CODING_CLUB
-#Empowering Creators in Electronics, Arduino, and Automation
+# Empowering Creators in Electronics, Arduino, and Automation
 
 Welcome to MKU coding academy, your gateway to the electrifying world of electronics programming, Arduino projects, and automation solutions. Whether you're a seasoned coder or just starting your journey, this repository is your go-to resource for learning, collaborating, and innovating in the realm of electrical engineering and programming.
 
@@ -23,4 +23,9 @@ To get started with, simply clone this repository to your local machine and expl
 
 ```bash
 git clone https://github.com/Breezekid/MKU_Coding_Club.git
+
+# Check out our youtube channel:
+
+https://www.youtube.com/@MountKenyaUniversityCodeAcadem
+
 
