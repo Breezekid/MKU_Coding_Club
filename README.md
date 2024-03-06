@@ -21,11 +21,11 @@ ElectraCode is a community-driven initiative aimed at fostering creativity, inno
 
 To get started with, simply clone this repository to your local machine and explore the contents. Whether you're looking to learn new skills, contribute to existing projects, or start your own, you'll find plenty of resources and support within our vibrant community.
 
-```bash
-git clone https://github.com/Breezekid/MKU_Coding_Club.git
-
-# Check out our youtube channel:
+## Check out our youtube channel:
 
 https://www.youtube.com/@MountKenyaUniversityCodeAcadem
 
+
+```bash
+git clone https://github.com/Breezekid/MKU_Coding_Club.git
 
